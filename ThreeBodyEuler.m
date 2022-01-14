@@ -2,6 +2,8 @@ function ThreeBodyEuler(m1,S1,m2,S2,P,tspan)
 % 
 % Author: Erik Lamoureux
 % Date: Novemeber 17, 2015
+% MATH/MECH 255 - Ordinary Differential Equations
+% Professor Patrick Walls
 % 
 % Purpose: Approximates a solution to Euler's Three Body Problem
 % Inputs:
